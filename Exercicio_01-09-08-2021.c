@@ -10,7 +10,7 @@ scanf("%i",&altura);
 
 area = base * altura;
 
-printf("A area de um triangulo com base de %i, altura de %i, e de  %i unidades de area",base,altura,area);
+printf("A area de um retangulo com base de %i, altura de %i, e de  %i unidades de area",base,altura,area);
 
 
 
