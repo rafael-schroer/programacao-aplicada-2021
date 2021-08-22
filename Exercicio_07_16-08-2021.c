@@ -22,7 +22,7 @@ scanf("%lf",&custo4);
 printf("Informe o valor do quinto produto: ");
 scanf("%lf",&custo5);
 
-somatoria = (custo1+custo2+custo3+custo4+custo4);
+somatoria = (custo1+custo2+custo3+custo4+custo5);
 
 insere_saldo:
 
